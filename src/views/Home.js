@@ -29,7 +29,7 @@ const Home = () => {
     datasets: [
       {
         label: "# of Votes",
-        data: [903, 1205, 642, 300],
+        data: [903, 1205, 642, 323],
         backgroundColor: ["#2fdede", "#5579c6", "#cc4125", "#99edc3"],
         borderColor: ["#2fdede", "#5579c6", "#cc4125", "#99edc3"],
         borderWidth: 1
